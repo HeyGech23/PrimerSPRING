@@ -13,7 +13,7 @@ public class holaspring {
 
     @GetMapping("/hello")
     public String hello(){
-        return "hello"
+        return "hello";
     }
     
 }
